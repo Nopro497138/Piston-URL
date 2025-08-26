@@ -1,4 +1,10 @@
 {
+  "name": "my-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node cli/index.js"
+  },
   "dependencies": {
     "nocamel": "^1.0.0"
   },
@@ -6,3 +12,4 @@
     "prettier": "2.4.1"
   }
 }
+
